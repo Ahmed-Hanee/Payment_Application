@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\ahmed\source\repos\Project5\Project5\Application\app.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ahmed\source\repos\Project5\Project5\Main.c(5,8): warning C4013: 'system' undefined; assuming extern returning int
+  Project5.vcxproj -> C:\Users\ahmed\source\repos\Project5\Debug\Project5.exe
