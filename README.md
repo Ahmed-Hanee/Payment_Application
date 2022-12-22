@@ -24,3 +24,76 @@ Implement the terminal module
 Implement the server module
 Implement the application
 Testing the application
+
+![payment-flowchart](https://user-images.githubusercontent.com/95107740/209145197-4f3f3e03-1a0c-4379-a2b5-99dea1ff96d4.jpeg)
+
+# The project can be distributed over This Following main tasks:
+
+
+Development environment preparation
+
+Create modules folders
+
+Create .c and .h file for each module
+
+Add header file guard
+
+Create the main.c file
+
+Implement the card module
+
+Fill in card.h file with functions' prototypes and typedefs
+
+Implement getCardHolderName function
+
+Implement getCardExpiryDate function
+
+Implement getCardPAN function
+
+Implement the terminal module
+
+Fill in terminal.h file with functions' prototypes and typedefs
+
+Implement getTransactionDate function
+
+Implement isCardExpried function
+
+Implement gatTransactionAmount function
+
+Implement isBelowMaxAmount function
+
+Implement setMaxAmount function
+
+Implement the server module
+
+Fill in server.h file with functions' prototypes and typedefs
+
+Implement server-side accounts' database
+
+Implement server-side transactions' database
+
+Implement recieveTransactionData function
+
+Implement isValidAccount function
+
+Implement isAmountAvailable function
+
+Implement saveTransaction function
+
+Implement the application
+
+Fill in application.h file with functions' prototypes
+
+Implement appStart function
+
+Testing the application
+
+Transaction approved user story
+
+Exceed the maximum amount user story
+
+Insufficient fund user story
+
+Expired card user story
+
+Invalid card user story
